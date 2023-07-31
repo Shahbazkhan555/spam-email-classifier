@@ -6,9 +6,6 @@ from nltk.stem.porter import PorterStemmer
 import streamlit as st
 import sklearn
 
-# Rest of your code...
-
-
 
 ps = PorterStemmer()
 
